@@ -12,5 +12,5 @@ The first task is to extract the features from the heart sounds within audio dat
 The task is to produce a method that can classify real heart sound into one of four categories (Normal, Murmur, Extra-Heart Sound and Artifact).
 
 This work is proposed to implement this classification task in two methods:
-1.	Extracting typical features from the signals and modelling these features through ensemble and boosting Machine Learning algorithms.
-2.	Use the deep learning algorithms and let the machine to learn the features by its own and make the classification decision. 
+1.	[Extracting typical features from the signals and modelling these features through ensemble and boosting Machine Learning algorithms.](https://colab.research.google.com/github/tkseneee/Classification-of-Heart-Sound/blob/master/pcg_ML.ipynb#scrollTo=U-5vPRSUylor)
+2.	[Use the deep learning algorithms and let the machine to learn the features by its own and make the classification decision. ](https://colab.research.google.com/github/So-AI-love/Classification-of-Heart-Sound/blob/master/deep_pcg_3.ipynb#scrollTo=j7gtyflrWXah)
